@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chest-Disease-Classification/mlruns/0/7b41c481b84c44ba9c4ccfb3a331e095/artifacts
+end_time: 1710278887009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b41c481b84c44ba9c4ccfb3a331e095
+run_name: incongruous-chimp-57
+run_uuid: 7b41c481b84c44ba9c4ccfb3a331e095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710278882127
+status: 3
+tags: []
+user_id: Ali
