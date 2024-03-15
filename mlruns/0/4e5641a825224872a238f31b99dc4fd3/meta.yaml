@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chest-Disease-Classification/mlruns/0/4e5641a825224872a238f31b99dc4fd3/artifacts
+end_time: 1710537602043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e5641a825224872a238f31b99dc4fd3
+run_name: charming-gnat-149
+run_uuid: 4e5641a825224872a238f31b99dc4fd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710537589240
+status: 3
+tags: []
+user_id: Ali

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chest-Disease-Classification/mlruns/0/81b7e33746f24c57beaf9db0860fbaa5/artifacts
+end_time: 1710537287423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81b7e33746f24c57beaf9db0860fbaa5
+run_name: wise-grouse-202
+run_uuid: 81b7e33746f24c57beaf9db0860fbaa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710537270844
+status: 3
+tags: []
+user_id: Ali
